@@ -1,0 +1,1690 @@
+#c
+-дизайн
+11
+17
+1c
+1c erp
+1c бухгалтерия
+1с erp управление холдингом
+1с документооборот
+1с-битрикс
+5
+5 и cucumber работа со сборщиками проектов maven и gradle работа с инструментами разработки jira
+54-фз
+5g
+8-11
+a b тестирование
+a b тесты
+abc analysis
+access control
+accuracy
+act ty
+active directory
+active mq
+activemq
+adobe photoshop
+agile
+agile project management
+agile scrum
+agile software development
+agrocd
+aiocache
+aiogram
+aiohttp
+airflow
+ajax
+alembic
+algorithms
+allfusion
+alpine
+altassian
+alteryx
+amazon web services
+amocrm
+amplitude
+ampq rabbit mq
+amqp
+amqp rabbitmq
+analysis
+analytical skills
+anchor modeling
+and problem-solving
+android
+android jetpack
+android jetpack libraries such as navigation components
+android ndk
+android sdk
+android studio
+androidx
+angular
+angular js
+angularjs
+ansible
+ansiblesql
+ant
+ant design
+antdesign
+aop
+aot
+apache
+apache activemq
+apache aifrlow
+apache airflow
+apache camel
+apache cassandra
+apache flink
+apache flinki
+apache hadoop
+apache http server
+apache ignite
+apache jmeter
+apache kafka
+apache kafka oracle pl sql mongodb
+apache maven
+apache nifi
+apache poi
+apache spark
+apache strom
+apache tomcat
+apex
+api
+api интерфейсы
+appfuse
+application server
+aps
+arangodb
+arcanum
+archi
+archimate
+architect components
+architecture
+argocd
+aris
+aris epc
+artemis
+artemis mq
+artemismq
+as is and to be
+asana
+asp net
+asr1000
+asr9000
+assembler
+asterisk
+astro js
+asyncio
+atlassian
+atlassian confluence
+atlassian confluence mvc ioc
+atlassian jira
+atlassian jira atlassian confluence microsoft azure bpmn uml restful api soap api graphql api rabbitmq
+atlassian sdk
+autocad
+aws
+aws glue
+aws lambda
+aws veeam
+axios
+axure rp
+azure
+azure devops
+b2b marketing
+b2b продажи
+b2c marketing
+babok
+backbone
+backend
+bamboo
+bash
+bash scripting
+bat
+bat business analysis tool
+batch
+bem
+bi
+bicc
+big data
+bitbacket
+bitbucket
+bitrix
+bitrix24
+biztalk
+black box testing
+blender 3d
+bloc
+blockchain
+blockhain
+bluetoothsdk
+boot
+bootstrap
+bpml
+bpmn
+bpmn2
+bpwin
+bs4
+bssap
+business analysis
+business development
+business english
+business intelligence systems
+business strategy
+business studio
+c
+c c++
+c#
+c++
+call center
+calypso
+camel
+camunda
+camunda bpm
+camunda modeler
+camunda modeller
+cap
+cashe
+cassandra
+cdi
+celery
+centos
+ceph
+cert-manager
+charles
+chart js
+check-list
+ci
+ci cd
+cicd
+cicerone
+cisco
+cisco asa
+cisco crs
+citrix
+cjm
+classic asp javascript
+clean architecture
+cli
+clickhouse
+clojure
+cloud
+cloud computing
+cloud services
+cms
+code review
+code-review
+codeceptjs
+cognos bi
+collection
+collections
+collections framework
+com
+com+
+compass 3d
+component diagram
+compose
+computation matemathic
+comunda
+concurrency
+concurrency scala kotlin
+concurrent
+config
+config server
+conflience
+confluence
+confluince
+consul
+corax
+core
+coreldraw photo draw
+coroutine
+coroutines
+coroutines + flow
+couchbase
+creo elements pro
+criteria api
+criteriaapi
+critical path
+critical thinking and analytical skills
+crm
+cron
+cross-functional team leadership
+crucible
+css
+css activex
+css3
+cubes olap server
+cucumber
+cuda
+custdev
+custom gradle task
+custom views
+customer account monitoring
+customer development
+customer service
+customview
+cypress
+cython
+cистемы управления базами данных
+d3
+dagger
+dagger 2
+dagger работа с базами данных postgres
+dagger2
+dagster
+data
+data analysis
+data governance
+data hibernate orm
+data jpa
+data lake
+data mining
+data modeler
+data science
+data vault
+database design
+databases
+databinding
+datalens
+datamaps
+datastage
+datasynapse gridserver
+dax
+db2
+dba
+dbeaver
+dbeaver опыт работы с технологиями
+dbt
+ddd
+debezium
+debian
+decentralized applications dapps
+defi
+defi web3
+delphi
+design patterns
+design thinking
+devops
+devprom
+devprom alm
+devtools
+dhcp
+di
+diameter
+diasoft
+diffutll
+digital marketing
+digital ocean
+django
+django framework
+django rest framework
+dns
+docker
+docker ci
+docker compose
+docker kubernetes
+docker-compose
+dockerhub
+docket
+doker
+draw io
+drawio
+drf
+dry
+dude
+dwh
+e-commerce
+easyrandom
+echarts
+eclipse
+eclipse link
+eclipse rcp
+eclipselink
+eepc
+efk
+ehcache
+ejb
+elastic
+elastic search
+elastic stack
+elasticsearch
+elixir
+elk
+elk stack
+enterprise architect
+enterprise architect soapui postman intellij idea altova figma
+epc
+er
+er diagram
+er-диаграмма
+er-диаграммы
+erd
+erp
+erp systems
+erwin
+es6
+esb
+espresso
+etc
+etl
+etl elt
+eureka
+ews
+excel
+expressjs
+ext js
+failsafe
+fastapi
+feign
+feignclient
+figma
+figma design
+firebase
+fisheye
+flash actionscript
+flask
+flexibility
+flow
+fluentd
+flume
+flyway
+forgerock
+formik
+frameworks spring cloud eureka
+frontend
+gamedev
+gb
+gcp
+git
+git bash
+git-flow
+gitab ci cd
+github
+gitlab
+gitlab ci
+gitlab ci cd
+gitlab ci для ci cd
+gitlab опыт работы с инструментами intellij idea
+glide
+gmp sap
+gms
+go
+golang
+golang python
+google analytics
+google chrome
+google cloud platform
+google docs
+google query
+googlemap
+gosu
+graalvm
+graddle
+gradle
+gradle maven
+grafana
+grafana prometheus
+grafql
+grande
+graph ql
+graphql
+graphql mesh
+graylog
+greenplum
+groovy
+growth hacking
+growth management
+grpc
+grpcox
+gson
+gtpv1
+gtpv2
+gulp
+gur
+gwt
+h2
+hadoop
+hadoop & yarn
+haproxy
+hard skills java
+hardware
+hashicorp
+hashicorp vault
+hazelcast
+hbase
+hdfs
+helidon
+helm
+helm helmfile
+helpdesk
+hibernate
+hibernate orm
+highload
+hilt
+hive
+hp quality center системы версионного контроля vss
+hp service manager
+hpsm
+hql
+hr
+html
+html5
+http
+huawei services
+hue
+hyper-v
+hypermedia api
+iac
+ibm db2
+ibm ilog cplex
+ibm integration
+ibm mq
+ibm rational rose
+ibm websphere
+ibm websphere esb
+ibmmq
+ide
+idea
+idef
+idef0
+ignite
+iis
+influxdb
+informatica
+informatica powercenter
+insomnia
+integration
+intelij idea
+intellij
+intellij idea
+interviews
+io
+ios development
+iot
+ips
+itil
+itil itsm
+itsm
+jackson
+jaeger
+jakarta ee
+jasper reports
+jasperreports
+jaspersoft
+java
+java - 17
+java 11
+java 11-17
+java 17
+java 19
+java 21
+java 6-11
+java 6-17
+java 7-11
+java 7-17
+java 8
+java 8-11
+java 8-13
+java 8-17
+java 8-18
+java 8-21
+java concurrency
+java core
+java ee
+java ee ejb
+java git
+java java-core
+java persistence api
+java se
+java se 11-17
+java servlet
+java servlets
+java spring framework
+java-ws
+javafx
+javascript
+javascript ajax
+jax-rs
+jax-ws
+jaxb
+jbdc
+jboss
+jboss seam
+jboss wildfly
+jdbc
+jdbi
+jenkins
+jenkins для ci cd
+jersey
+jest
+jet pack compose
+jetbrains
+jetbrains youtrack
+jetpack compose
+jetty
+jira
+jira atlassian
+jmeter
+jmix
+jms
+jms ibm mq
+jms solace
+jndi
+jni
+jook
+jooq
+jpa
+jpa hibernate
+jprc
+jprofiler
+jquery
+js
+json
+json api
+json-schema
+jsp
+jstl
+jsx
+jtbd
+junit
+junit 5
+junit4
+junit5 assertj
+jupyter
+k8s
+kafka
+kafka exporter
+kanban
+kanban java core
+kanban kmp
+kassandradb
+keepalived
+keras
+keycloack
+keycloak
+kibana
+kiss
+koa
+koin
+koin hilt workmanager
+kotlin
+kotlin 6 1 8
+kotlin 8 coroutines
+kotlin coroutine
+kotlin coroutines
+kotlin multiplatform
+kotlin serializer
+ktor
+kubernates
+kubernetes
+kubernetes gke
+kubernetes jdbc
+kubernetes k8s
+kubernetis
+labview
+lambdas
+lamp
+laravel
+laravel php
+launching new products
+ldap
+leadership and the ability to take initiative
+leadership skills
+lean production
+lean six sigma
+lens
+less
+less css
+liferay
+linux
+liquibase
+liquidbase
+lit elements
+log model
+log4j
+logging
+logstash
+loki
+loki grafana
+lombok
+lombook
+lotus note
+lotus notes
+lua
+lucid chart
+m le applications
+machine learning
+mantisbp
+manual testing
+map
+maple
+mapreduce
+mapstruct
+marionette
+market research
+material design
+material ui
+mathcad
+mathematical programming
+mathematical statistics
+mathplotlib
+matlab
+matplotlib
+maven
+maven gradle
+memcached
+mentoring
+mercurial
+mes
+metatrader4 5
+meteor js
+microservices
+microservices cloud config
+microsoft excel
+microsoft office
+microsoft powerpoint
+microsoft project
+microsoft sql
+microsoft sql server
+microsoft tfs
+microsoft visio
+mikrotik
+minio
+mira
+miro
+ml
+moba xterm
+mobx
+mocha
+mockito
+mockito api
+mockito postgresql
+mockk
+modbus
+mokito
+mongo db
+mongodb
+moqups
+moshi
+moshi gson
+moxy
+mpmlink
+mq
+mrp ii erp
+ms access
+ms excel
+ms office
+ms office vba автоматизация работы ms excel
+ms outlook
+ms power bi
+ms powerpoint
+ms project
+ms sql
+ms sql server
+ms visio
+ms visual basic
+ms visual studio
+ms word
+mssql
+mssql server
+multitasking
+multithread programming
+multithreading
+mvc
+mvi
+mvp
+mvp+moxy
+mvvm
+mybatis
+mysql
+n2o
+navigation component
+navigatoncomponent
+negotiation skills
+nest
+nestix
+netbean ide
+netbeans
+netezza
+netflix eureka
+netty
+newman
+next js
+nexus
+nginx
+nifi
+nim
+nio
+node js
+nodejs
+nomad
+nosql
+nosql cassandra
+notepad++
+nrf connect
+numpy
+nuxt
+nuxt js
+oauth2
+object-oriented programming oop
+objective-c
+odi
+okd
+okhttp
+okr
+okrs
+olap
+olap online analytical processing
+oop
+openapi
+openapi specification
+openapi swagger
+opencv
+openfeign
+openlayers
+opensearch
+openshift
+openshift cloud
+opentelemetry
+oracle
+oracle 11g
+oracle 18
+oracle application express
+oracle bi
+oracle coherence
+oracle database
+oracle db
+oracle dba
+oracle hyperion
+oracle pl sql
+oracle siebel crm
+oracle soft skills работа в команде
+oracle sql
+oracle sql data modeler
+oracle sql developer
+oracle vm virtualbox
+oraqle db
+org koin
+orm
+osgi felix
+osi
+ospf
+otrs
+outh
+outlook
+ovirt
+pandas
+pascal
+passport js
+payload
+pdf
+pdm
+pdm plm
+pega
+people management
+perforce
+perl
+pgadmin
+phoenix
+photoshop figma sketch
+php
+phpunit
+physical model
+picasso
+pinia
+pl pgsql
+pl sql
+playwright
+plm
+plsql
+pmbok
+pmi
+postcss
+postgesql
+postgre
+postgredb
+postgres
+postgres exporter
+postgresql
+postgresql linux
+postgressql
+postmam
+postman
+power bi
+power query
+powerbi
+powermockito
+powershell
+pre-sale
+presentation skills
+product development
+product management
+product marketing
+product owner
+product promotion
+product road mapping
+product vision
+program project management
+project documentation
+project engineering
+project management
+project reactor
+prometeus
+prometheus
+prometheus grafana
+pronetheus
+protobuff
+proxmox
+ptc integrity
+pug
+pug jade
+putty
+pwa
+pydantic
+pyrus
+pyspark
+pytelegrambotapi
+pytest
+python
+python 3
+pytorch
+qa
+qgis
+qlik
+qlik sence
+qlik sense
+qliksense
+qlikview
+quarkus
+quasar
+questdb
+quickdbd
+qwik js
+r
+r2dbc
+rabbit mq
+rabbitmq
+ranap
+rdp
+react
+react js
+reactive
+reactive development reactor
+reactive programming
+reactjs
+reactor
+realm
+recyclerview
+redash
+redfish
+redhat
+redhat alt debian
+redic
+redis
+redmine
+redux
+reflection
+reporting
+require js
+rest
+rest api
+rest apis
+rest assured
+rest json
+rest restful apis
+rest soap
+restapi
+restful api
+restful webservices
+retrofit
+retrofit 2
+retrofit ktor
+retrofit2
+ribbon
+rice и ice
+richfaces
+risk management
+rmi
+roadmap
+roboletric
+room
+route planning
+rs-loans
+rs-securites
+rust
+rxbinding
+rxjava
+rxjava2
+rxjs
+s3
+s3 minio
+saas
+sales skills
+salesforce
+sap
+sap bi
+sap business objects
+sap bw
+sap erp
+sap hybris
+sap r 3
+sas
+sas dis
+sas eg
+sass
+scala
+scikit-learn
+scoring
+scriptrunner
+scrum
+scrum master
+scrum-мастер
+scss
+seaborn
+search-engine lucene
+security
+security api
+selectel cloud
+selenium
+selenium ide
+selenium webdriver
+sentry
+sequence diagram
+service desk
+servicemesh
+servlets
+shedlock
+shell scripting
+similarweb
+single act ty
+siren4j
+slack
+slf4j
+snmp
+snort
+soap
+soap ui
+soapui
+software analysis
+software development
+software system analysis
+solid
+solid works
+solidity
+solidworks
+solr
+sonar
+sonarqube
+sonatype nexus
+sonic esb
+soup
+sowa
+spa
+spark
+spark scala
+spark streaming
+sping framework
+spring
+spring 5
+spring aop
+spring boot
+spring boot 2
+spring boot 3
+spring boot 7
+spring boot data
+spring boot data web mvc security
+spring cloud
+spring cloud gateway
+spring core
+spring data
+spring data jpa
+spring data r2dbc
+spring framework
+spring framework boot
+spring framework cloud
+spring framework core
+spring framework data
+spring framework jdbc
+spring framework mvc
+spring framework security
+spring framework web
+spring ioc
+spring jpa
+spring mvc
+spring reactor
+spring rest
+spring scheduler
+spring security
+spring security работа с системами контроля версий bitbucket
+spring test
+spring test junit
+spring web
+spring webflux
+springboot
+sql
+sql alchemy
+sql oracle
+sql postgresql
+sqlalchemy
+sqlite
+sqs
+ssis
+ssr
+ssrs
+stack grafana
+start-up project
+start-ups
+starteam
+statistics
+strategic management
+strategy
+stream api
+streams
+struts
+styled-component
+stylus
+subversion
+subversion написание тестов с использованием junit 4
+svn
+swager
+swagger
+swarm
+swift
+swing
+swiper
+swot анализ
+swt
+sybase
+sybase powerdesigner
+symfony
+system architecture
+system integration
+t-flex
+t-sql
+tableau
+tailwind
+tailwind css
+tailwindcss
+tarantool
+tcp ip
+tdd
+team management
+teamcenter
+teamcity
+teamleading
+teamplayer
+telbot
+telegraf
+telegram bots
+tensorflow
+teradada
+teradata
+terraform
+terraform terragrunt
+test case
+test it
+testcontainers
+testing libraries such as mockito
+testng
+testrail
+tfs
+tfsо
+threadpoolexecutor
+thunk
+thymeleaf
+tilda
+timber
+time management
+tipka jms
+togaf
+tomcat
+transact-sql
+trello
+trino
+ts
+twig
+typeorm
+typescript
+typescrypt
+ubuntu
+ubuntu server
+ui
+ui test
+ui тестирование
+uml
+uml laravel
+unidata
+unit testing
+unit аналитика
+unit экономика
+unit-экономика
+unix
+unix shell scripts
+unreal engine 4
+upsource
+use case
+use case analysis
+user research
+user stories
+user story
+user story mapping
+user stoty
+user-story
+ux
+ux research
+ux ui
+ux ui исследования
+ux тестирование
+vaadin
+vagrant
+vault
+vba
+vba + ms excel
+vectorcast
+velocity
+vert x
+vertica
+vertica ms
+vertx
+victoria metrics
+virtualbox
+virtualization
+visual basic
+visual studio
+vk api
+vmware
+vmware kvm vpn check point
+volley
+vss
+vue
+vue js
+vue js 3
+vuerouter
+vuetify
+vuex
+waterfall
+web
+web application development
+web design
+web development
+web sockets
+web ui
+web аналитика
+webflux
+weblogic
+webpack
+webservices
+websocket
+websockets
+websphere
+wfm
+wicket
+wiki
+wildfly
+windchill
+windows
+windows 10
+windows active directory
+windows os
+windows server
+windows server r2
+wiremock
+wireshark
+wlp
+word
+workforce management
+ws
+wsdl
+wsjf
+wss
+xcode
+xgboost
+xlst
+xlsx
+xml
+xml json edifact custom datasets
+xml xslt
+xml работа в команде
+xsd
+xslt
+yed
+yii
+yii2
+youtrack
+zabbix
+zabbix terminal server
+zipkin
+zkoss
+zookeeper
+zuul
+автоматизация
+автоматизация ms office vba + sql
+автоматизация бизнес-процессов
+автоматизация производства
+автоматизация процессов
+автоматизация тестирования
+автоматизация технологических процессов
+автоматизированное тестирование
+адаптивная верстка
+административное управление
+администрирование linux
+администрирование оборудования фильтрации gigamon и аналогов
+администрирование серверов
+администрирование серверов linux
+администрирование серверов windows
+администрирование сетевого оборудования
+администрирование сетей
+алгоритмизация
+алгоритмы
+алгоритмы и структуры данных
+анализ бизнес показателей
+анализ бизнес требований
+анализ бизнес-процессов
+анализ данных
+анализ и оптимизация sql-запросов
+анализ кода
+анализ конкурентной среды
+анализ рынка
+анализ требований
+анализ чужого кода
+аналитика
+аналитика данных
+аналитические исследования
+аналитические способности
+аналитический склад ума
+аналитическое мышление
+английский язык
+английский язык upper-intermediate
+аргус ктп
+аргус ту
+асинхронное программирование
+аср старт
+асу тп
+аутсорсинг
+баг-репорт
+баг-трекинг
+багтрекинговые системы jira
+база данных oracle
+базовые знания active directory
+базовые знания яп c++
+базы данных
+банковская сфера
+банковское по
+бд oracle
+без вредных привычек
+бенчмаркинг
+бережливый стартап
+библиотеками
+бизнес анализ
+бизнес аналитика
+бизнес-анализ
+бизнес-моделирование
+биллинговые системы
+битрикс24
+бки
+блокчейн
+большие данные
+большой опыт тестирования desktop pc игр
+бт
+быстрая обучаемость
+быстрое обучение
+бэм
+бюджетирование
+в т ч на английском языке
+веб аналитика
+веб-аналитика
+веб-разработка
+ведение клиентской базы
+ведение отчетности
+ведение переговоров
+ведение переписки на иностранном языке
+взаимодействие с бизнес-заказчиком
+взаимодействие с заказчиком
+визуализация
+визуализация данных
+вики
+виртуализация
+внедрение crm
+внутренний контроль
+водительское удостоверение категории b
+вывод продукта на рынок
+высокая обучаемость
+высоконагруженные системы
+выявление требований
+галактика
+гост
+гост 34
+госты
+грамотная речь
+грамотность
+графические редакторы
+графический дизайн
+декомпозиция
+декомпозиция задач
+делегирование
+деловая коммуникация
+деловая переписка
+деловое общение
+дерево метрик
+диагностика
+диаграммы связей
+дизайн презентаций
+дисциплинирован
+документация проекта
+ескд
+запуск новых продуктов
+знание английского уровень b1
+знание инструментов управления scrum
+знание линеек оборудования cisco 7606
+знание методологий тестирования и процессов разработки по
+знание протоколов cs core isup
+знание протоколов ps core s1ap
+знание протоколов tcp ip
+знание стека протоколов tcp ip и распространенных сервисов
+инвестиции
+индивидуальная работа
+инициативность
+интеграции
+интеграционное тестирование
+интеграция
+интервьюирование
+интерью и исследования
+информационная безопасность
+информационные технологии
+ирование
+ирование api
+ирование веб-приложений
+ирование дизайна
+ирование методом свободного поиска
+ирование мобильных приложений
+ирование по
+ирование пользовательского интерфейса
+ирование при помощи консоли разработчика
+ирование требований
+искусственный интеллект
+испанский b2
+исполнителен
+исполнительность
+исследование пользователя
+исследование рынка
+исследовательский анализ данных
+кадровое планирование
+карты
+командообразование
+коммуникабельность
+коммуникативная компетентность
+коммуникативные навыки
+коммуникация
+компас-3d
+контроль данных
+контроль за исполнением
+контроль исполнения решений
+краткосрочное бюджетирование и планирование
+креативность
+кредитные истории
+лидерство
+логирование
+любопытство
+макрос
+макросы
+маркетинговые исследования
+маркетинговые коммуникации
+маршрутизации в ip сетях
+математика
+математическая статистика
+математический анализ
+математическое моделирование
+машинное обучение
+ментор
+менторинг разработчиков
+метрика
+метрики
+микросервисная архитектура
+микросервисы
+многозадачность
+многомодульность
+многопоточность
+мобильное тестирование
+моделирование бизнес процессов
+моделирование бизнес-процессов
+моделирование процессов
+модель c4
+модульное тестирование
+мониторинг
+мотивация персонала
+навыки деловой переписки
+навыки межличностного общения
+навыки переговоров
+навыки презентации
+навыки управления проектами влияние
+написание контрактов с использованием swagger
+написание тестовой документации
+написание тз
+наставничество
+настройка пк
+настройка сетевых подключений
+находящимися в подчинении
+нацелен на результат
+нацеленность на результат
+нбки
+немецкий язык
+нси
+обработка
+обратная разработка
+обучаемость
+обучение и развитие
+обучение персонала
+окб
+оконные функции sql
+ооп
+оперативность в поиске информации
+операционный менеджмент
+описание бизнес-процессов
+оптимизационное моделирование
+оптимизация бизнес процессов
+оптимизация бизнес-процессов
+оптимизация затрат
+оптимизация кода
+опыт администрирования dns
+опыт администрирования систем мониторинга и анализа сети сигнализации
+опыт написания скриптов на python
+опыт работы с балансировщиками трафика netscaler
+опыт работы с оборудованием nat cisco asa
+опыт работы с пакетным ядром мобильных сетей 2g 3g 4g
+опыт работы с системами обработки и анализа трафика dpi pcef
+опыт работы с тестовыми инструментами
+опыт работы со средой виртуализации vmware
+организаторские навыки
+организация
+организация бизнес-процессов
+организованность
+ориентация на результат
+основы c
+основы тестирования
+ответственность
+открытость новому
+оценка потребностей клиентов
+очень большой опыт работы с багами
+паттерны
+паттерны проектирования
+переговоры с первыми лицами компаний
+планирование
+планировать
+подбор персонала
+подготовка докладов и выступлений
+подготовка презентаций
+поддержка клиентов
+поиск и анализ багов
+поиск информации в интернет
+поиск решений
+пользователь пк
+понимание принципов работы компьютерных сетей
+постановка задач разработчикам
+построение cjm
+построение бизнес-моделей
+построение и оптимизация процессов
+построение команды
+предобработка данных
+презентации
+принимать решения
+проведение исследований
+проведение презентаций
+проведение тестирований
+прогнозирование
+программирование микроконтроллеров
+продвижение проектов
+продуктовая аналитика
+продуктовые метрики
+продуктовый маркетинг
+проектирование
+проектирование архитектуры приложений
+проектирование баз данных
+проектирование бд
+проектирование интеграций
+проектирование информационных систем
+проектирование пользовательских интерфейсов
+проектирование приложений
+проектирование систем
+проектная документация
+проектный менеджмент
+производственное планирование
+простые функции на котлин
+протоколирование
+прототипирование
+прямые продажи
+рrocess diagram
+работа в команде
+работа в команде по agile
+работа с базами данных
+работа с большим объемом информации
+работа с данными аналитика
+работа с логами
+работа с реляционными базами данных
+работоспособность
+развитие продаж
+разрабатывать и выполнять тестовые сценарии и тест-кейсы
+разработка и внедрение политик и процедур
+разработка инструкций
+разработка концепции
+разработка маркетинговой стратегии
+разработка нового продукта
+разработка по
+разработка под android
+разработка программного обеспечения
+разработка продукта
+разработка продуктовой стратегии
+разработка проектной документации
+разработка регламентов
+разработка решений по интеграции
+разработка систем биллинга
+разработка стратегии продвижения продуктов
+разработка структур реляционных баз данных
+разработка тест-кейсов
+разработка технических заданий
+разработка тз
+разработка требований
+разрешение конфликтов
+расчет
+расчет затрат
+регрессионное тестирование
+резервное копирование acronis
+реинжиниринг бизнес-процессов
+рефакторинг кода
+руководство
+руководство коллективом
+руководство командой разработчиков
+ручное тестирование
+сamunda
+сапр
+сбор и анализ информации
+сбор и анализ требований
+сбор требований
+сетевые технологии
+системная аналитика
+системная архитектура
+системная бизнес аналитика
+системная интеграция
+системное администрирование
+системное мышление
+системный анализ
+системный подход
+системы видеонаблюдения
+системы виртуализации
+сопровождение проектов
+составление любой проектной документации
+составление отчетности
+способность вести переговоры
+стандарты idef
+станки чпу
+статистический анализ
+стратегическое мышление
+стратегическое планирование
+стрессоустойчивость
+структуры данных
+субд
+субд oracle
+сэд
+тайм-менеджмент
+телефонные переговоры
+теория автоматического управления тау
+техники тест-дизайна
+техническая документация
+техническая эксплуатация
+техническое и деловое письмо
+технология производства
+техэксперт
+тз
+точность и внимательность к деталям
+трейсинг
+уверенный пользователь пк ms office
+умение аналитически мыслить
+умение организовывать работу
+умение планировать
+умение принимать решения
+умение работать в коллективе
+умение работать в команде
+умение работать с документами
+умение разбираться в чужом коде
+умение расставлять приоритеты
+управление
+управление it-услугами
+управление базой данных
+управление бизнес процессами
+управление бизнес-процессами
+управление бэклогом
+управление бюджетом
+управление коллективом
+управление командой
+управление людьми
+управление персоналом
+управление продуктами
+управление продуктом
+управление проектами
+управление производственным персоналом
+управление производством
+управление процессами
+управление разработкой
+управление рисками
+управление требованиями
+управление требованиями к по
+управленческие навыки
+усидчивость
+финансовая аналитика
+финансовое планирование
+финансовый анализ
+форматы сообщений swift глобальной межбанковской системы
+формирование тз для разработки
+фреймворками hibernate
+фреймворки по управлению продуктами
+фт
+функциональное программирование
+функциональное тестирование
+функциональные требования
+хранилище данных
+целеполагание
+целеустремленность
+целеустремлённость
+человеческие отношения и климат в команде
+четкая постановка целей и задач
+шина данных
+эквифакс
+эффективно управлять временем и людьми
+юнит-экономика

@@ -43,6 +43,41 @@ class DataHandler:
                                           ['passed'])
         return data_frame
 
+    def migrate_json_to_pd_data_frame_draft(self):
+        data_to_migrate = []
+        data_columns = []
+        vacancy_keys = ('uuid', 'name', 'keywords', 'description', 'comment')
+        person_keys = ('uuid', 'first_name', 'last_name', 'birth_date', 'country', 'city', 'about')
+        # key_skills
+        lists_keys = ('experienceItem', 'educationItem', 'languageItem')
+        for row in self.edu_data:
+            d_v = row['vacancy']
+            vacancy_info = [d_v[k].strip() if d_v[k] is not None else d_v[k] for k in vacancy_keys]
+            for passed, passed_key in enumerate(('failed_resumes', 'confirmed_resumes')):
+                for person in row[passed_key]:
+                    person_info = vacancy_info + [person[k].strip() if person[k] is not None else person[k] for k in
+                                                  person_keys] + [
+                                      person['key_skills'].split(', ') if person['key_skills'] else None]
+                    if 'experienceItem' in person:
+                        experience_keys = ('starts', 'ends', 'employer', 'city', 'position', 'description')
+                        person_info.append([[item[k].strip() if item[k] else None for k in experience_keys] for item in
+                                            person['experienceItem']])
+                    if 'educationItem' in person:
+                        education_keys = ('year', "organization", "faculty", "specialty", "result", "education_type",
+                                          "education_level")
+                        person_info.append(
+                            [[str(item[k]).strip() if item[k] else None for k in education_keys] for item in
+                             person['educationItem']])
+                    if 'languageItem' in person:
+                        person_info.append(person['languageItem'])
+                    data_to_migrate.append(person_info)
+        print(*data_to_migrate[0], sep='\n')
+        columns = (['v_' + k for k in vacancy_keys] +
+                   ['p_' + k for k in person_keys] + ['p_key_skills'] +
+                   []
+                   + ['passed'])
+        print(len(columns))
+
 
 if __name__ == '__main__':
     EDU_DATA_FILEPATH = '../data/case_2_data_for_members.json'
@@ -50,4 +85,3 @@ if __name__ == '__main__':
 
     dh = DataHandler()
     # print(dh.migrate_json_to_pd_data_frame().to_csv('text.csv', encoding='utf-8', index=False, sep=';'))
-    print(dh.migrate_json_to_pd_data_frame())
